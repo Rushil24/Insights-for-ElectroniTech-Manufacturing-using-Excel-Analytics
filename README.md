@@ -1,4 +1,6 @@
 # Integrated Operations Analysis: A Case Study on ElectroniTech Manufacturing Co.
+DOCUMENT LINK : https://docs.google.com/document/d/1sERLXhT79DUI9CAgykyeZ5uVN1UeXmML/edit?usp=sharing&ouid=106210050719871477486&rtpof=true&sd=true
+
 📌 Project Overview
 
 This project focuses on analyzing manufacturing operations of ElectroniTech Manufacturing Co. using Microsoft Excel. The aim was to identify inefficiencies in supply chain, workforce allocation, customer segmentation, and payment tracking, and to recommend data-driven solutions for improving overall business performance.
